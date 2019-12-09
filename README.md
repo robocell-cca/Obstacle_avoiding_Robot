@@ -1,6 +1,6 @@
 # Obstacle avoiding Robot
 
-This file has a .ino file to be run on microcontroller boards like Arduino, NodeMCU.The robot would dodge obstacles in it's proximity of 15 CMS, and turn left or right accordingly.
+This file has a .ino file to be run on microcontroller boards like Arduino, NodeMCU.The robot would avoid obstacles in it's proximity of 15 cm, and turn right accordingly.
 
 # Basic functioning of the robot: 
 
